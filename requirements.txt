@@ -1,8 +1,7 @@
-
 streamlit
 streamlit-webrtc
-ultralytics
-opencv-contrib-python-headless
-numpy
+opencv-contrib-python-headless==4.11.0.86
+numpy==1.26.4
 Pillow
 av
+ultralytics
